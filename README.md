@@ -10,9 +10,3 @@
 - :thinking: I’m currently open for: `job opportunities`, contact me for more details.
 - :nerd_face: Always `learning new things`
 - 🔗 [Check out my LinkedIn profile for more!](https://www.linkedin.com/in/sako-kazanjian/) 
-
-<br>
-
-## 📊 Recent GitHub Activity
-<a href="https://github.com/SakoKazanjian"><img alt="Sako's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SakoKazanjian&theme=xcode" /></a>
-
