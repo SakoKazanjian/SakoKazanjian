@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About me
 - 💻 I am a Software Engineer
-- :trophy: [`AUST`](https://www.aust.edu.lb/) High Distinction
-- :thinking: I’m currently open for: `job opportunities`
+- 👨🏻‍🎓 [`AUST`](https://www.aust.edu.lb/) High Distinction
+- :thinking: Always open for: `opportunities`
 - :nerd_face: Always `learning new things`
 - 🔗 [Check out my LinkedIn profile for more!](https://www.linkedin.com/in/sako-kazanjian/) 
