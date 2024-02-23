@@ -5,6 +5,5 @@
 ## 👨🏻‍💻 About me
 - 💻 Software Engineer
 - 👨🏻‍🎓 B.S. in Computer Science, with High Distinction [`AUST`](https://www.aust.edu.lb/)
-- :thinking: Always open for: `opportunities`
 - :nerd_face: Always `learning new things`
 - 🔗 [Check out my LinkedIn profile for more!](https://www.linkedin.com/in/sako-kazanjian/) 
